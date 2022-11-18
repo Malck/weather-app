@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gh-test/static/css/main.960463e8.css",
+    "main.js": "/gh-test/static/js/main.c7772b57.js",
+    "static/media/sunset.jpg": "/gh-test/static/media/sunset.ab19eb6fc568e5c0ff4d.jpg",
+    "static/media/valley.jpg": "/gh-test/static/media/valley.e624f72fd2b2a9214758.jpg",
+    "index.html": "/gh-test/index.html",
+    "main.960463e8.css.map": "/gh-test/static/css/main.960463e8.css.map",
+    "main.c7772b57.js.map": "/gh-test/static/js/main.c7772b57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.960463e8.css",
+    "static/js/main.c7772b57.js"
+  ]
+}
